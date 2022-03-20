@@ -354,3 +354,147 @@ input {
     column-gap: 15%;
 }
 /*-------------------------------------------------------------------------------------------------------------------------*/
+
+
+@media screen and (max-width:1023px) {
+  .derecha {
+      width: 100%;
+  }
+  .izquierda {
+      width: 100%;
+  }
+  .menu {
+      width: 100%;
+  }
+  .rectanguloCalendario {
+      width: 100%;
+  }
+  .contenedor {
+      width: 100%;
+  }
+  .center{
+      width: 100%;
+  }
+  .cuadradoTransparente {
+    width: 100%;
+  }
+  .centroCuadro {
+    width: 100%;
+  }
+  .cuadradoSegundaSeccion {
+    width: 100%;
+  }
+  .rectanguloPreparations {
+    width: 100%;
+  }
+   .cuadradoTransparente {
+    width: 100%;
+  } 
+  .colorFondo {
+    width: 100%;
+    position: relative;
+    top: 50%;
+    transform: translate(60%,15%);
+  }
+  .mujer {
+      width: 200%;
+      position: relative;
+  }
+  .imgMujer {
+      width: 200%;
+  }
+  .enfermero {
+      width: 100%;
+      position: relative;
+      transform: translate(-40%,15%);
+  }
+  .imgHombre {
+      width: 100%;
+
+  }
+
+  .cuadradoEmergency {
+      width: 100%;
+  }
+  .centro {
+    width: 100%;
+  }
+  .footer {
+      width: 100%;
+      position: relative;
+      bottom: 0%;
+      transform: translateY(30%);
+      background-color: rgba(83, 41, 199, 0.2);
+  }
+
+}
+@media screen and (max-width:767px) {
+    .derecha {
+        width: 100%;
+    }
+    .izquierda {
+        width: 100%;
+    }
+    .menu {
+        width: 100%;
+    }
+    .rectanguloCalendario {
+        width: 100%;
+    }
+    .contenedor {
+        width: 100%;
+    }
+    .center{
+        width: 100%;
+    }
+    .cuadradoTransparente {
+      width: 100%;
+    }
+    .centroCuadro {
+      width: 100%;
+    }
+    .cuadradoSegundaSeccion {
+      width: 100%;
+    }
+    .rectanguloPreparations {
+      width: 100%;
+    }
+     .cuadradoTransparente {
+      width: 100%;
+    } 
+    .colorFondo {
+      width: 100%;
+      position: relative;
+      top: 50%;
+      transform: translate(60%,15%);
+    }
+    .mujer {
+        width: 200%;
+        position: relative;
+    }
+    .imgMujer {
+        width: 200%;
+    }
+    .enfermero {
+        width: 100%;
+        position: relative;
+        transform: translate(-40%,15%);
+    }
+    .imgHombre {
+        width: 100%;
+
+    }
+
+    .cuadradoEmergency {
+        width: 100%;
+    }
+    .centro {
+      width: 100%;
+    }
+    .footer {
+        width: 100%;
+        position: relative;
+        bottom: 0%;
+        transform: translateY(30%);
+        background-color: rgba(83, 41, 199, 0.2);
+    }
